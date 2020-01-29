@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name libre_lumos)(type KiCad)(uri ${MODELS}/Users/remi/OneDrive/usini_project/libre_lumos/libre_lumos)(options "")(descr ""))
+  (lib (name lum0s)(type KiCad)(uri ${MODELS}/Users/remi/OneDrive/usini_project/git/lum0s/kicad/lum0s.pretty)(options "")(descr ""))
+)
