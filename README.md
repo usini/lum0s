@@ -1,6 +1,6 @@
 # lum0s
  
-a LED strip powered by a USB power bank
+a LED strip powered by a USB power bank   
 Based on https://github.com/FabLab-Luenen/McLighting
 
 ![3D representation](documentation/fusion360_image.png)
